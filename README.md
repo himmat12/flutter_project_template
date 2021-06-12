@@ -1,4 +1,4 @@
-# toppicks
+# FLutter GetX MVCs Architecture Project Template
 
 A new Flutter project.
 
